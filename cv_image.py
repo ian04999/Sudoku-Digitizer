@@ -1,6 +1,3 @@
-#Student Name: Ian Heng Law
-#Student Nmumber: 101102777 
-
 import numpy as np
 import operator
 import cv2 	
